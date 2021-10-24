@@ -1,5 +1,4 @@
 # Sprint-04-Enterprise
-# Sprint_04_Digital
 # Template para desenvolvimento e entrega de Challenge Sprint 4
  
 # Nome do projeto
