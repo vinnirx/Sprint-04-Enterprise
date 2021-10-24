@@ -28,5 +28,8 @@ Todo e qualquer estabelecimento que queira mensurar as experiências do consumid
 
 ## Arquitetura
 
+##Link do youtube
+https://www.youtube.com/watch?v=CS9dnI0yzGE
+
 ## Conclusão
 O projeto foi bem dificil para ser concluido pois tive que aprender como colocar um administrador que irá ter acesso ao cadastro de usuarios e poder acessar qualquer informação como todos os comerciantes cadastrados e poder deletar ou fazer algum update de informações pessoais e o comerciante não ter acesso a tela de cadastro e poder só simplemente cadastrar só seus produtos! e se este projeto for adiante iremos trocar a foto do github pela foto de email do comerciante para que quando acessar sua conta com seu login e senha poder ver só seus produtos cadastrados.
